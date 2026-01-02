@@ -1,0 +1,6 @@
+openai
+langchain
+pydantic
+rich
+schedule
+python-dotenv
